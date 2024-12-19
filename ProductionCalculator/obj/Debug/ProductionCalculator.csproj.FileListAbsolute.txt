@@ -1,0 +1,7 @@
+C:\Users\gdmit\Desktop\ProductionCalculator\ProductionCalculator\bin\Debug\ProductionCalculator.exe.config
+C:\Users\gdmit\Desktop\ProductionCalculator\ProductionCalculator\bin\Debug\ProductionCalculator.exe
+C:\Users\gdmit\Desktop\ProductionCalculator\ProductionCalculator\bin\Debug\ProductionCalculator.pdb
+C:\Users\gdmit\Desktop\ProductionCalculator\ProductionCalculator\obj\Debug\ProductionCalculator.csproj.AssemblyReference.cache
+C:\Users\gdmit\Desktop\ProductionCalculator\ProductionCalculator\obj\Debug\ProductionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\gdmit\Desktop\ProductionCalculator\ProductionCalculator\obj\Debug\ProductionCalculator.exe
+C:\Users\gdmit\Desktop\ProductionCalculator\ProductionCalculator\obj\Debug\ProductionCalculator.pdb
